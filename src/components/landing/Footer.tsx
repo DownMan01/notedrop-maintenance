@@ -12,7 +12,7 @@ interface FooterProps {
 
 const Footer = ({
   newsletterTitle = "Join the NoteDrop community",
-  copyrightText = "© 2023 NoteDrop. All rights reserved.",
+  copyrightText = "© 2025 NoteDrop. All rights reserved.",
   twitterLink = "https://x.com/jiecrypto0",
 }: FooterProps) => {
   const container = {
